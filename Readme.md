@@ -6,6 +6,12 @@ This project implements a machine learning approach to distinguish between AI-ge
 
 The increasing sophistication of AI language models makes it challenging to distinguish between AI-generated and human-written content. This project addresses this challenge by analyzing the sequential patterns in text that might reveal fundamental differences in how AI systems and humans construct sentences.
 
+## Data
+
+**Original source**: https://huggingface.co/datasets/artem9k/ai-text-detection-pile
+
+We reduceed this dataset to fit the compute power that was available at hand. Using complete dataset will give better results.
+
 ## Methodology
 
 ### Data Processing
