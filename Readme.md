@@ -1,4 +1,4 @@
-# AI Text Detection Using Multiple Approaches
+# Identifying patterns in AI Text Using Multiple Approaches
 
 This project implements machine learning approaches to distinguish between AI-generated and human-written text using three different methods:
 1. Basic ML with TF-IDF features
